@@ -1,9 +1,10 @@
 # Me chamo Bruno! 💻
-● Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
-● Estudante de Análise e Desenvolvimento de Sistemas | UMC Universidade de Mogi das Cruzes
+ ◆ Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
+ ◆ Estudante de Análise e Desenvolvimento de Sistemas | UMC Universidade de Mogi das Cruzes
 
 
-# Linguagens que tenho conhecimento:
+
+# Linguagens que tenho conhecimento e tenho estudado! 👨‍💻
   <div style="display: inline_block">
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -13,14 +14,13 @@
   </div>
   
 # Redes Sociais:
-
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/alcanbrun)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-91165122b/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_old00/)
  
- # Bibliografia 📚
- ● Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas.
-   Estudando para estar migrando para área de desenvolvedor.
+ # Bibliografia 
+ ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas.
+ ◆ Estudando para estar migrando para área de desenvolvedor.
  
  
  
