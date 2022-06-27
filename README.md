@@ -19,7 +19,7 @@
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_old00/)
  
  # Bibliografia 
- ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas.
+ ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas. <br>
  ◆ Estudando para estar migrando para área de desenvolvedor.
  
  
