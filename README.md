@@ -2,14 +2,7 @@
 ● Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End 
 ● Estudante de Análise e Desenvolvimento de Sistemas | UMC Universidade de Mogi das Cruzes
 
-<br>
-<div align>
-  <a href="https://github.com/brunoalxrose">
-  <img height="148em" src="https://github-readme-stats.vercel.app/api?username=RodrigoD324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD324&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RodrigoD324&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoD324&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 
 # Linguagens que tenho conhecimento:
   <div style="display: inline_block">
