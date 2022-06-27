@@ -13,12 +13,12 @@
     <img align="center" alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   </div>
   
-# Redes Sociais:
+# Redes Sociais
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/alcanbrun)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-91165122b/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bruno_old00/)
  
- # Bibliografia 
+ # Bibliografia 📚
  ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas. <br>
  ◆ Estudando para estar migrando para área de desenvolvedor.
  
