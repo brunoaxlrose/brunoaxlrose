@@ -1,6 +1,6 @@
 # Me chamo Bruno! 💻
  ◆ Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
- ◆ Estudante de Análise e Desenvolvimento de Sistemas | UMC Universidade de Mogi das Cruzes
+ ◆ Estudante de Análise e Desenvolvimento de Sistemas 2/4 | UMC Universidade de Mogi das Cruzes
 
 
 
