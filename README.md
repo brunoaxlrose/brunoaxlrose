@@ -1,6 +1,12 @@
 # Me chamo Bruno! 💻
  ◆ Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
- ◆ Estudante de Análise e Desenvolvimento de Sistemas 2/4 | UMC Universidade de Mogi das Cruzes
+ ◆ Estudante de Análise e Desenvolvimento de Sistemas 2/4 | UMC Universidade de Mogi das Cruzes <br>
+ 
+ <div align>
+  <a href="https://github.com/RodrigoD324">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoaxlrose&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 
