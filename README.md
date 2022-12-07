@@ -31,8 +31,6 @@
   <div style="display: inline_block">
       <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
       <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img align="center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
  
   </div>
 
@@ -46,8 +44,8 @@
  
  
  # Bibliografia 📚
- ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Front-End, cursando 2° Semestre de Análise e    Desenvolvimento de Sistemas. <br>
- ◆ Estudando para estar migrando para área de desenvolvedor.
+ ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Full Stack, cursando 3° Semestre de Análise e    Desenvolvimento de Sistemas. <br>
+ ◆ Estudando atualmente Java e banco de dados utilizando  SGBD MySQL.
  
  
  
