@@ -52,7 +52,7 @@ alt="MySQL-Badge">
  
  # Bibliografia 📚
  ◆ Em busca de conhecimento para me desenvolver como programador Full Stack, cursando 3° Semestre de Análise e Desenvolvimento de Sistemas. <br>
- ◆ Estudando atualmente Java e banco de dados utilizando  SGBD MySQL.
+ ◆ Estudando atualmente Java e banco de dados utilizando  SGBD MySQL. <br>
  ◆ Realizando novos projetos para update de novos repositórios...
  
  
