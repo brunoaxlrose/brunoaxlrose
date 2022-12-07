@@ -1,6 +1,6 @@
 # Me chamo Bruno! 💻
  ◆ Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
- ◆ Estudante de Análise e Desenvolvimento de Sistemas 2/4 | UMC Universidade de Mogi das Cruzes <br>
+ ◆ Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  
  <div align>
   <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
@@ -51,8 +51,10 @@ alt="MySQL-Badge">
  
  
  # Bibliografia 📚
- ◆ Atualmente trabalhando como Analista de Suporte HelpDesk, em busca de conhecimento para me desenvolver como programador Full Stack, cursando 3° Semestre de Análise e    Desenvolvimento de Sistemas. <br>
+ ◆ Em busca de conhecimento para me desenvolver como programador Full Stack, cursando 3° Semestre de Análise e Desenvolvimento de Sistemas. <br>
  ◆ Estudando atualmente Java e banco de dados utilizando  SGBD MySQL.
+ ◆ Realizando novos projetos para update de novos repositórios...
+ 
  
  
  
