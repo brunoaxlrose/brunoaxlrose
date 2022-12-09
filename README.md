@@ -1,5 +1,5 @@
 # Me chamo Bruno! 💻
- ◆ Atualmente em busca de conhecimento pela estrutura de desenvolvimento Front-End <br>
+ ◆ Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
  ◆ Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  
  <div align>
