@@ -1,6 +1,6 @@
-# Me chamo Bruno! 💻
- ◆ Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
- ◆ Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
+# Me chamo Bruno, seja bem vindo! 💻
+ 📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
+ 📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  
  <div align>
   <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
@@ -48,12 +48,6 @@ alt="MySQL-Badge">
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isbruno.21/)
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511915643421/)
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/522/#tl/priority/%5Esmartlabel_personal/)
- 
- 
- # Bibliografia 📚
- ◆ Em busca de conhecimento para me desenvolver como programador Full Stack, cursando 3° Semestre de Análise e Desenvolvimento de Sistemas. <br>
- ◆ Estudando atualmente Java e banco de dados utilizando  SGBD MySQL. <br>
- ◆ Realizando novos projetos para update de novos repositórios...
  
  
  
