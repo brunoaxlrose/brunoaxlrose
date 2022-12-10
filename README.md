@@ -1,5 +1,5 @@
 <div align=center><h1>
-### Me chamo Bruno, seja bem vindo! 💻
+ 💻 Me chamo Bruno, seja bem vindo! 💻
  </h1>
  </div>
  📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
@@ -13,7 +13,9 @@
 
 
 <div align=center>
-###  🛠️👨‍💻 Linguagens e Ferramentas 👨‍💻🛠️ <br/>
+ <h1>
+  🛠️👨‍💻 Linguagens e Ferramentas 👨‍💻🛠️ <br/>
+ </h1>
  <img align= "center"  alt="html_Bruno" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align= "center"  alt="css_Bruno" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align= "center"  alt="csharp_Bruno" height="60" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -22,7 +24,9 @@
  </div>
  
 <div align="center">
-### Contatos 
+ <h1>
+📞 Contatos 📞 
+ </h1>
  
 <a href="https://www.linkedin.com/in/bruno-oliveira-91165122b/" alt="Linkedin" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
