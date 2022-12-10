@@ -9,7 +9,7 @@
 </div>
 
 
-<div>
+<div align=center>
 ###  🛠️👨‍💻 Linguagens e Ferramentas 👨‍💻🛠️ <br/>
  <img align= "center"  alt="html_Bruno" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align= "center"  alt="css_Bruno" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
