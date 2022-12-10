@@ -1,4 +1,6 @@
+<div align=center>
 ### Me chamo Bruno, seja bem vindo! 💻
+ </div>
  📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
  📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  
@@ -18,10 +20,9 @@
  
  </div>
  
-  
+<div align="center">
 ### Contatos 
  
- <div align="center">
 <a href="https://www.linkedin.com/in/bruno-oliveira-91165122b/" alt="Linkedin" target="_blank">
   	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
