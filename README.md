@@ -24,6 +24,12 @@
  <img align= "center"  alt="mysql_Bruno" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                              
  </div>
+ <div align=center>
+  <h1>
+  📚 Estudando atualmente 📚 <br/>
+ </h1>
+ <img align= "center"  alt="java_Bruno" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ </div>
  
 <div align="center">
  <h1>
