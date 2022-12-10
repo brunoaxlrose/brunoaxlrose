@@ -19,12 +19,20 @@
  </div>
  
   
-# Redes Sociais
+### Contatos 
  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-oliveira-91165122b/)
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isbruno.21/)
- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511915643421/)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/522/#tl/priority/%5Esmartlabel_personal/)
+ <div align="center">
+<a href="https://www.linkedin.com/in/bruno-oliveira-91165122b/" alt="Linkedin" target="_blank">
+  	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+  <a href="https://wa.me/+5511915643421" alt="WhatsApp" target="_blank">
+  	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+</a>
+  <a href="mailto:brunoaxlrose8@gmail.com" alt="Gmail" target="_blank">
+  	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+  
+ 
  
  
  
