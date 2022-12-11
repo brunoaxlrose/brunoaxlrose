@@ -47,7 +47,7 @@
 </a>
   
  
- 
- 
+
+![Snake animation](https://github.com/brunoaxlrose/brunoaxlrose/blob/output/github-contribution-grid-snake.svg)
  
  
