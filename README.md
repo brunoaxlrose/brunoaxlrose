@@ -9,7 +9,7 @@
  
  <div align=center>
   <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&hide_border=true" />
 </div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&langs_count=7&theme=dracula"/>
 </div>
