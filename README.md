@@ -30,7 +30,7 @@
   <h1>
   📚 Estudando atualmente 📚 <br/>
  </h1>
- <img align= "center"  alt="java_Bruno" height="80" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ <img align= "center"  alt="java_Bruno" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
  </div>
  
 <div align="center">
