@@ -11,7 +11,7 @@
 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoaxlrose" alt="brunoaxlrose" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brunoaxlrose&theme=dracula" alt="brunoaxlrose" /></a> </p>
 
 
 
