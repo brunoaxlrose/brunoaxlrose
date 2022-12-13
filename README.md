@@ -2,10 +2,10 @@
  💻 Me chamo Bruno, seja bem vindo ao meu perfil! 💻
  </h1>
  
- <h2>📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
+ <h3>📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
  📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  </div>
- </h2>
+ </h3>
  
  <div align=center>
   <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
