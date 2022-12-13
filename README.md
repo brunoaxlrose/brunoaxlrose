@@ -8,9 +8,7 @@
  </h3>
  
  <div align=center>
-  <a href="https://github.com/brunoaxlrose/brunoaxlrose ">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&hide_border=true" />
-</div>
+
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoaxlrose&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
