@@ -2,7 +2,7 @@
  💻 Me chamo Bruno, seja bem vindo ao meu perfil! 💻
  </h1>
  
- <h3>📚 Atualmente em busca de conhecimento pela linguagem Java juntamente com banco de dados, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
+ <h3>📚 Atualmente em busca de conhecimento pela linguagem PHP juntamente com banco de dados MySQL, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
  📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
  </div>
  </h3>
@@ -20,6 +20,7 @@
  <img align= "center"  alt="html_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align= "center"  alt="css_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align= "center"  alt="csharp_Bruno" height="90" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+ <img align= "center"  alt="php_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
  <img align= "center"  alt="java_Bruno" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
  <img align= "center"  alt="mysql_Bruno" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
                              
@@ -28,7 +29,7 @@
   <h1>
   📚 Estudando atualmente 📚 <br/>
  </h1>
- <img alt="java_Bruno" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+ <img alt="php_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
  <img alt="html_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img alt="css_Bruno" height="90" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
