@@ -1,3 +1,6 @@
+<img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+
+
 <div align=center><h1>
  💻 Wassup Guys 💻
  </h1>
