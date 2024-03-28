@@ -3,7 +3,7 @@
  </h1>
  
  <h3>📚 Atualmente em busca de conhecimento pela linguagem PHP juntamente com banco de dados MySQL, buscando cada dia aperfeiçoar meus conhecimentos e me aprofundando cada vez mais com linguagens e ferramentas de programação. <br>
- 📚 Estudante de Análise e Desenvolvimento de Sistemas 3/4 | UMC Universidade de Mogi das Cruzes <br>
+ 📚 Formado em Análise e Desenvolvimento de Sistemas | UMC Universidade de Mogi das Cruzes <br>
  </div>
  </h3>
  
